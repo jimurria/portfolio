@@ -5,7 +5,7 @@ THIS IS THE INDEX
 
 [Goto Hola](#HOLA)
 
-[Goto Drag & Drop](#DRAG & DROP)
+[Goto Drag & Drop](#DRAG-&-DROP)
 
 [Goto Tonto](#TONTO)
 
