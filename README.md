@@ -168,7 +168,7 @@ THIS IS THE INDEX
 .
 
 
-# DRAG & DROP
+# DRAG \& DROP
 .
 
 .
