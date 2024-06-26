@@ -4,7 +4,9 @@ Legacy Portfolio
 THIS IS THE INDEX
 
 [Goto Hola](#HOLA)
+
 [Goto Tonto](#TONTO)
+
 [Goto End](#END)
 
 
@@ -64,7 +66,7 @@ THIS IS THE INDEX
 
 .
 
-#HOLA
+# HOLA
 
 .
 
@@ -114,7 +116,7 @@ THIS IS THE INDEX
 
 .
 
-#TONTO
+# TONTO
 .
 
 .
@@ -163,4 +165,4 @@ THIS IS THE INDEX
 
 .
 
-#END
+# END
